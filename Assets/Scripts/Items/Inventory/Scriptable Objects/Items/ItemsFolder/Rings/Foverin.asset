@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c695a1901c7ed4d9a315df87fdbeb2, type: 3}
+  m_Name: Foverin
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: 42b9e341e2dedf8488d636df64b4ee8e, type: 3}
+  stackable: 0
+  type: 8
+  dropChance: 35
+  description: 
+  data:
+    Name: Foverin
+    Id: 19
+    buffs:
+    - attribute: 1
+      value: 10
+    - attribute: 2
+      value: 12
+    - attribute: 5
+      value: 0.7

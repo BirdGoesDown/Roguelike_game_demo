@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7830a74bada1454584aa86fa4fd3a47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Inventory: {instanceID: 0}
+  - itemDetails: {fileID: 238400353693695198, guid: 95c89553f07f9874ba668409eef403b6, type: 3}
+  - trashHolder: {fileID: 7942499206946963112, guid: 042e9846c191c6c499f1bc91e7b1eeaf, type: 3}
+  - trasher: {fileID: 7526648903976541413, guid: b486f13c50c747e42b8e618dbb2a2f7c, type: 3}
+  - inventoryPrefab: {fileID: 4038548403833156299, guid: 78db714e02731394b95383bac13d2f90, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
